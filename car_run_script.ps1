@@ -1,0 +1,1 @@
+.\car_install_qualys_container_sensor_win.ps1 "dockerhub" "<Activation ID>" "<Customer ID>" "<POD URL Container Security>" "NONE" "install"

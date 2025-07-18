@@ -1,0 +1,9 @@
+Its working for installing on win 11 docker desktop and wsl versions.
+
+Need to test the auto restart on podman on wsl, need to test that on docker on wsl also.
+
+Then need to fix the always reinstall issue.
+
+Also, need to test on win 10, 
+
+But getting there!
